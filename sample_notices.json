@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SYN-001",
+    "title": "Regional Building Framework",
+    "category": "construction",
+    "region": "UK",
+    "release_in_days": 45,
+    "revision": 1
+  },
+  {
+    "id": "SYN-002",
+    "title": "Robotics Procurement Framework",
+    "category": "manufacturing",
+    "region": "EU",
+    "release_in_days": 110,
+    "revision": 2
+  },
+  {
+    "id": "SYN-003",
+    "title": "Future Framework",
+    "category": "construction",
+    "region": "UK",
+    "release_in_days": 260,
+    "revision": 1
+  }
+]
